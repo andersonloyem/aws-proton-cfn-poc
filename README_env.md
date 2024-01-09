@@ -11,7 +11,7 @@ The template also creates an Amazon VPC endpoint to publish messages to the SNS 
 
 ## Architecture
 
-![vpc-env](../../images/vpc-env.png)
+![vpc-env](vpc-env.png)
 
 ## Parameters
 
