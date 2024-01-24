@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "5e2cda24-71b8-42a3-8f14-0877ff292011",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-1:914325536545:environment/vpc-env-tf-develop",
     "templateArn" : "arn:aws:proton:eu-west-1:914325536545:environment-template/vpc-env-tf",
